@@ -1,0 +1,28 @@
+{
+  "version": "0.0.0",
+  "description": "Workato CLI — workspace operations, recipe management, and plugin system",
+  "homepage": "https://github.com/workato-devs/wk-cli-beta",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/workato-devs/wk-cli-beta/releases/download/v0.0.0/wk-windows-amd64.zip",
+      "hash": "PLACEHOLDER"
+    },
+    "arm64": {
+      "url": "https://github.com/workato-devs/wk-cli-beta/releases/download/v0.0.0/wk-windows-arm64.zip",
+      "hash": "PLACEHOLDER"
+    }
+  },
+  "bin": "wk.exe",
+  "checkver": "github",
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/workato-devs/wk-cli-beta/releases/download/v$version/wk-windows-amd64.zip"
+      },
+      "arm64": {
+        "url": "https://github.com/workato-devs/wk-cli-beta/releases/download/v$version/wk-windows-arm64.zip"
+      }
+    }
+  }
+}
