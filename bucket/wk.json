@@ -6,11 +6,11 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/workato-devs/wk-cli-beta/releases/download/v1.0.3-beta/wk_1.0.3-beta_Windows_x86_64.zip",
-      "hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+      "hash": "f645bd16a07d1e59bfec20269a5b79d928be3d60e641f777e8c931164db54490"
     },
     "arm64": {
       "url": "https://github.com/workato-devs/wk-cli-beta/releases/download/v1.0.3-beta/wk_1.0.3-beta_Windows_arm64.zip",
-      "hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+      "hash": "3598acd91b3e3ebf8558b912e1cc97ea935c478401280447a395f6435a802385"
     }
   },
   "bin": "wk.exe",
