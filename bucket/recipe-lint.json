@@ -6,11 +6,11 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/workato-devs/wk-lint-beta/releases/download/v1.0.5-beta/recipe-lint_1.0.5-beta_Windows_x86_64.zip",
-      "hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+      "hash": "ed79a09d2931e01d85a3234eadda9be60e00090756a2fc73813f8c13e1f36871"
     },
     "arm64": {
       "url": "https://github.com/workato-devs/wk-lint-beta/releases/download/v1.0.5-beta/recipe-lint_1.0.5-beta_Windows_arm64.zip",
-      "hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+      "hash": "c31f403521395eda39f9c948516e78d2add03d177afd39bb974d23c198dbb1cf"
     }
   },
   "bin": "recipe-lint.exe",
