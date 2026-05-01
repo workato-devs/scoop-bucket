@@ -1,16 +1,16 @@
 {
-  "version": "1.0.1-beta",
+  "version": "1.0.2-beta",
   "description": "Workato recipe linter \u2014 deterministic validation for wk lint",
   "homepage": "https://github.com/workato-devs/wk-lint-beta",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/workato-devs/wk-lint-beta/releases/download/v1.0.1-beta/recipe-lint_1.0.1-beta_Windows_x86_64.zip",
-      "hash": "0e1bb7355fc454d843b8e2e7b4d2d39d96c1831c060306763ca21a7a3eee87b8"
+      "url": "https://github.com/workato-devs/wk-lint-beta/releases/download/v1.0.2-beta/recipe-lint_1.0.2-beta_Windows_x86_64.zip",
+      "hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
     },
     "arm64": {
-      "url": "https://github.com/workato-devs/wk-lint-beta/releases/download/v1.0.1-beta/recipe-lint_1.0.1-beta_Windows_arm64.zip",
-      "hash": "9765407735a9dd0f76ffc31ad26fea678ecbc1d0ecb2feef1e87c28cec8a8d09"
+      "url": "https://github.com/workato-devs/wk-lint-beta/releases/download/v1.0.2-beta/recipe-lint_1.0.2-beta_Windows_arm64.zip",
+      "hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
     }
   },
   "bin": "recipe-lint.exe",
